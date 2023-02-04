@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="firstResponse">Yes! We have done it again!!!</string>
+    <string name="secondResponse">Press it again.</string>
+    <string-array name="state_arrays">
+        <item>Melaka</item>
+        <item>Selangor</item>
+        <item>Johor</item>
+        <item>Negeri Sembilan</item>
+        <item>Pahang</item>
+        <item>Terengganu</item>
+        <item>Kedah</item>
+        <item>Perlis</item>
+    </string-array>
+</resources>

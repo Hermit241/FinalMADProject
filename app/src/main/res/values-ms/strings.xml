@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">My Application</string>
+    <string name="firstResponse">Ya! Kita berjaya sekali lagi!!!</string>
+    <string name="secondResponse">Tekan sekali lagi.</string>
+</resources>
